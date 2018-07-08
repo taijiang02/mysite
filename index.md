@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![aaa](49eb2b5ae7587.gif)
+![avatar](49eb2b5ae7587.gif)
 
 # Kirby
 
